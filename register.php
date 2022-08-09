@@ -52,7 +52,7 @@ if (isset($_POST['submit'])) {
 </head>
 
 <body>
-    <section class="vh-100 gradient-custom">
+    <section class="min-vh-100 py-5 gradient-custom">
         <div class="container h-100">
             <div class="row d-flex justify-content-center align-items-center h-100">
                 <div class="col-12 col-md-8 col-lg-6 col-xl-5">
